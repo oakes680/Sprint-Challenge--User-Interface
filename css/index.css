@@ -305,7 +305,7 @@ input[type=text] {
 
 
 
-  .example_d {
+  .animation {
     color: #b83131 !important;
     text-transform: uppercase;
     background: #ffffff;
@@ -318,7 +318,7 @@ input[type=text] {
     }
 
 
-  .example_d:hover {
+  .animation:hover {
 color: #494949 !important;
 border-radius: 50px;
 border-color: #494949 !important;
