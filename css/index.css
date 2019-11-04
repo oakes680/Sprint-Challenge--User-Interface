@@ -163,11 +163,17 @@ p {
   display: flex;
   justify-content: space-between;
   align-items: baseline;
-  margin: 30px 0px;
+  margin: 30px 0px; 
+  width: 100%;
+}
+nav {
+    width: 80%;
+    display: flex;
+    justify-content: space-around;
 }
 
 nav a {
-  margin-right: 60px;
+  /* margin-right: 60px; */
   text-decoration: none;
   color: black;
 }
